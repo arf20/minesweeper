@@ -4,3 +4,9 @@ build/
 CMakeSettings.json
 *.o
 *.bin
+*.cmd
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
